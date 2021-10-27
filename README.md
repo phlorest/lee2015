@@ -1,22 +1,24 @@
-# Koreanic (Lee 2015):
+# Dataset lee2015
 
-```
-Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
-```
+## How to cite
 
-* ID: lee2015:
-* URL: [http://dx.doi.org/10.1371/journal.pone.0128448](http://dx.doi.org/10.1371/journal.pone.0128448)
-* Paper: [paper](paper)
-* Original Files: [original](original)
-* Scaling: years
-* Taxa: 15 taxa 
-* Data: [data](data)
-* Nexus: [data.nex](data.nex)
-* Character Specification: None
-* Summary Tree: [summary.trees](summary.trees)
-* Posterior Probability Distribution: [posterior.trees](posterior.trees)
+If you use these data please cite
+- the original source
+  > Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-## Errors:
+## Description
 
-* missing characters
-* missing cldf
+
+Available online at http://dx.doi.org/10.1371/journal.pone.0128448
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
+## Summary Tree
+
+![summary](./summary_tree.svg)

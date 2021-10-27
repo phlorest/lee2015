@@ -8,17 +8,6 @@ class Dataset(phlorest.Dataset):
     id = "lee2015"
 
     def cmd_makecldf(self, args):
-        """
-summary.trees: original/phylogeny_koreanic.tre
-	nexus trees -t -c $< -o $@
-
-posterior.trees: original/Koreanic_COV_UCLD.trees.gz
-	# remove first 900 trees as burn-in
-	nexus trees -c -d 1-901 $< -o $@
-
-data.nex:
-	cp original/Koreanic.nex $@
-        """
         self.init(args)
         with self.nexus_summary() as nex:
             self.add_tree_from_nexus(
