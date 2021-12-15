@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Lee 2015 'Koreanic (Lee 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Lee2015'Koreanic (Lee 2015)'",
     "dcat:accessURL": "https://github.com/phlorest/tree-lee2015",
     "prov:wasDerivedFrom": [
         {
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/tree-lee2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "bb8906e",
+            "dc:created": "bdfdc4a",
             "dc:title": "Repository"
         },
         {
@@ -131,7 +131,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 101,
+            "dc:extent": 1,
             "tableSchema": {
                 "columns": [
                     {
