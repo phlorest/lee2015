@@ -14,19 +14,13 @@ class Dataset(phlorest.Dataset):
                 'phylogeny_koreanic.tre', detranslate=True),
             self.metadata,
             args.log)
-        posterior = self.sample(
-            self.remove_burnin(
-                self.raw_dir.read('Koreanic_COV_UCLD.trees.gz'),
-                901),
-            n=100,
-            detranslate=True,
-            as_nexus=True)
-                   
-        args.writer.add_posterior(
-            posterior.trees.trees,
-            self.metadata,
-            args.log)
-                   
+
+        # only have 1001 trees, so just keep 800
+        posterior = self.raw_dir.read_trees(
+            'Koreanic_COV_UCLD.trees.gz',
+            burnin=201, detranslate=True)
+        args.writer.add_posterior(posterior, self.metadata, args.log)
+        
         args.writer.add_data(
             self.raw_dir.read_nexus('Koreanic.nex'),
             self.characters,

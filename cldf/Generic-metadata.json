@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/tree-lee2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "bdfdc4a",
+            "dc:created": "2788c85",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
@@ -131,7 +131,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 1,
+            "dc:extent": 801,
             "tableSchema": {
                 "columns": [
                     {
