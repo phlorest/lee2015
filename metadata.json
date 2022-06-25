@@ -8,7 +8,7 @@
     "year": 2015,
     "scaling": "years",
     "analysis": "bayesian",
-    "family": "kore1284",
+    "family": "Koreanic",
     "cldf": "https://github.com/lexibank/leekoreanic",
     "missing": {
         "characters": "not readily available."
