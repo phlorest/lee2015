@@ -1,7 +1,7 @@
 {
     "id": "lee2015",
     "license": "https://creativecommons.org/licenses/by/2.0/",
-    "url": "http://dx.doi.org/10.1371/journal.pone.0128448",
+    "url": "https://doi.org/10.1371/journal.pone.0128448",
     "citation": "Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448",
     "name": "Koreanic (Lee 2015)",
     "author": "Lee",
@@ -9,7 +9,7 @@
     "scaling": "years",
     "analysis": "bayesian",
     "family": "Koreanic",
-    "cldf": "https://github.com/lexibank/leekoreanic",
+    "cldf": "https://doi.org/10.5281/zenodo.5126903",
     "missing": {
         "characters": "not readily available."
     }
