@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Lee 2015 'Koreanic (Lee 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Lee 2015 'A Sketch of Language History in the Korean Peninsula'",
     "dcat:accessURL": "https://github.com/phlorest/lee2015",
     "prov:wasDerivedFrom": [
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/lee2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "6131cf1",
+            "dc:created": "9a17f51",
             "dc:title": "Repository"
         },
         {
