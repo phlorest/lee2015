@@ -11,11 +11,11 @@ property | value
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.1371/journal.pone.0128448
-[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/2.0/
+[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Koreanic</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>years</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/lee2015
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex </a></li><li><a href="https://doi.org/10.5281/zenodo.5126903">https://doi.org/10.5281/zenodo.5126903 </a></li><li><a href="https://github.com/phlorest/lee2015/tree/9a17f51">phlorest/lee2015 9a17f51</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex </a></li><li><a href="https://doi.org/10.5281/zenodo.5126903">https://doi.org/10.5281/zenodo.5126903 </a></li><li><a href="https://github.com/phlorest/lee2015/tree/d0863e9">phlorest/lee2015 d0863e9</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | lee2015
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 

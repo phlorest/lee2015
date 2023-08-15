@@ -8,7 +8,7 @@
     "dc:bibliographicCitation": "Lee S (2015) A Sketch of Language History in the Korean Peninsula. PLoS ONE 10(5): e0128448. doi:10.1371/journal.pone.0128448",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1371/journal.pone.0128448",
-    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
         "family": "Koreanic",
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/lee2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "9a17f51",
+            "dc:created": "d0863e9",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
