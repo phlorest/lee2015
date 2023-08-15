@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Lee 2015 'A Sketch of Language History in the Korean Peninsula'
 
 [![CLDF validation](https://github.com/phlorest/lee2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/lee2015/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250162.svg)](https://doi.org/10.5281/zenodo.8250162)
 
 ## How to cite
 
