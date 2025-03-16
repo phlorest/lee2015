@@ -11,6 +11,7 @@
     "analysis": "bayesian",
     "family": "Koreanic",
     "cldf": "https://doi.org/10.5281/zenodo.5126903",
+    "artefacts": ["raw/koreanic_covucld.xml"],
     "missing": {
         "characters": "not readily available."
     }
