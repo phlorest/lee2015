@@ -1,0 +1,218 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98,
+          37.54
+        ]
+      },
+      "properties": {
+        "Name": "Gyeonggi",
+        "Glottocode": "seou1239",
+        "xd_ids": [
+          "xd638"
+        ],
+        "Glottolog_Name": "Seoul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47,
+          38.29
+        ]
+      },
+      "properties": {
+        "Name": "Hwanghae",
+        "Glottocode": "hwan1238",
+        "Glottolog_Name": "Hwanghaedo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5554,
+          33.3805
+        ]
+      },
+      "properties": {
+        "Name": "Jeju",
+        "Glottocode": "jeju1234",
+        "Glottolog_Name": "Jejueo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59918,
+          37.93313
+        ]
+      },
+      "properties": {
+        "Name": "MiddleKorean",
+        "Glottocode": "midd1372",
+        "Glottolog_Name": "Middle Korean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31,
+          36.63
+        ]
+      },
+      "properties": {
+        "Name": "NorthChungcheong",
+        "Glottocode": "chun1247",
+        "Glottolog_Name": "Ch'ungch'ongdo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.3,
+          35.3
+        ]
+      },
+      "properties": {
+        "Name": "NorthGyeongsang",
+        "Glottocode": "kyon1247",
+        "Glottolog_Name": "Kyongsangdo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.84,
+          42.34
+        ]
+      },
+      "properties": {
+        "Name": "NorthHamgyong",
+        "Glottocode": "hamg1238",
+        "Glottolog_Name": "Hamgyongdo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.84,
+          35.14
+        ]
+      },
+      "properties": {
+        "Name": "NorthJeolla",
+        "Glottocode": "chol1278",
+        "Glottolog_Name": "Jollado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          39.44
+        ]
+      },
+      "properties": {
+        "Name": "NorthPyongan",
+        "Glottocode": "pyon1239",
+        "Glottolog_Name": "P'yong'ando"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31,
+          36.63
+        ]
+      },
+      "properties": {
+        "Name": "SouthChungcheong",
+        "Glottocode": "chun1247",
+        "Glottolog_Name": "Ch'ungch'ongdo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.3,
+          35.3
+        ]
+      },
+      "properties": {
+        "Name": "SouthGyeongsang",
+        "Glottocode": "kyon1247",
+        "Glottolog_Name": "Kyongsangdo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.84,
+          42.34
+        ]
+      },
+      "properties": {
+        "Name": "SouthHamgyong",
+        "Glottocode": "hamg1238",
+        "Glottolog_Name": "Hamgyongdo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.84,
+          35.14
+        ]
+      },
+      "properties": {
+        "Name": "SouthJeolla",
+        "Glottocode": "chol1278",
+        "Glottolog_Name": "Jollado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.16,
+          39.44
+        ]
+      },
+      "properties": {
+        "Name": "SouthPyongan",
+        "Glottocode": "pyon1239",
+        "Glottolog_Name": "P'yong'ando"
+      }
+    }
+  ]
+}
