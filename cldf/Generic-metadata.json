@@ -16,7 +16,7 @@
         "scaling": "years"
     },
     "dc:title": "Phlorest phylogeny derived from Lee 2015 'A Sketch of Language History in the Korean Peninsula'",
-    "dcat:accessURL": "https://github.com/phlorest/tree-lee2015",
+    "dcat:accessURL": "https://github.com/phlorest/lee2015",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "data.nex",
@@ -31,22 +31,22 @@
             "dc:format": "https://cldf.clld.org"
         },
         {
-            "rdf:about": "https://github.com/phlorest/tree-lee2015",
+            "rdf:about": "https://github.com/phlorest/lee2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-2-g1823da8",
+            "dc:created": "v1.1-3-g8738d2a",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.13.1"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
