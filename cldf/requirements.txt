@@ -4,7 +4,7 @@ babel==2.18.0
 bibtexparser==2.1.0
 certifi==2026.7.22
 cldfbench==2.0.1
--e git+https://github.com/phlorest/tree-lee2015.git@183826ff5378c440a6508f30e5f246fa40b42afb#egg=cldfbench_lee2015
+-e git+https://github.com/phlorest/tree-lee2015.git@a736d5195dab9d23b31d46bbff974718d06b660e#egg=cldfbench_lee2015
 cldfcatalog==1.7.0
 cldfviz==2.0.0
 cldfzenodo==3.0.0
@@ -29,9 +29,9 @@ matplotlib==3.11.2
 multipledispatch==1.0.0
 nameparser==2.3.0
 newick==1.11.0
-numpy==2.5.3
+numpy==2.5.4
 packaging==26.3
-platformdirs==4.12.4
+platformdirs==4.13.0
 pluggy==1.6.0
 prettytable==3.18.0
 pycldf==2.1.1
